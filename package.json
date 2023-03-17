@@ -1,0 +1,60 @@
+{
+  "name": "ambienteangular-extension-pack",
+  "displayName": "Ambiente Angular 2",
+  "description": "A collection of extensions for Angular 2 development that we use in 7DevTeam.",
+  "version": "0.0.1",
+  "publisher": "nixoff",
+  "icon": "angular-icon.png",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+},
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "repository": {
+    "url": "https://github.com/Nixoff/angular-extension-pack"
+  },
+  "homepage": "https://github.com/Nixoff/angular-extension-pack",
+  "bugs": {
+    "url": "https://github.com/Nixoff/angular-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "Angular",
+    "Angular 13",
+    "Angular 12",
+    "Angular 11",
+    "Angular 10",
+    "Angular 9",
+    "Angular 8",
+    "Angular 7",
+    "TypeScript",
+    "JavaScript",
+    "Angular 2",
+    "Angular 4",
+    "Angular 5",
+    "Angular 6"
+],
+  "extensionPack": [ 
+    "publisher.extensionName",
+    "infinity1207.angular2-switcher",
+    "johnpapa.angular-essentials",
+    "Angular.ng-template",
+    "johnpapa.Angular2",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "usernamehw.errorlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "solnurkarim.html-to-css-autocompletion",
+    "PKief.material-icon-theme",
+    "quicktype.quicktype",
+    "johnpapa.vscode-peacock",
+    "rangav.vscode-thunder-client"
+  ]
+}
